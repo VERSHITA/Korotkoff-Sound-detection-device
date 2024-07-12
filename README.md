@@ -6,12 +6,14 @@ Our project is based on the crucial body sounds known as Korotkoff Sounds. These
 
 The microphone within the sound module is housed inside the stethoscope pipe to eliminate external noise interference and ensure accurate sound capturing. The data from the module is then transmitted to the microcontroller for processing. The processed data is subsequently sent to a laptop via cable for analysis.
 
-#Achievements
+Achievements:
+
 Cost-Effective: Our device is priced under 1,000 rupees, significantly lower than the market prices of similar stethoscopes, which range from 22,000 to 100,000 rupees. Bulk production has the potential to further reduce costs.
 High Sample Rate: It offers a higher sample rate of 5,000 points per second, compared to 4,000 points per second in commercial devices, ensuring more accurate data collection.
 User-Friendly: Simple to operate, it only requires a blood pressure machine for measuring sounds, making it ideal for middle-class families and accessible for both doctors and individuals.
 
-#Future Advancements
+Future Advancements:
+
 Bluetooth Module: We plan to install a Bluetooth module to transmit data directly to a mobile phone.
 Custom App: A custom app will be developed to display and store sound analysis and send data to healthcare providers.
 High-Performance Microphones: High-performance microphones will be used to capture sound at an increased rate while remaining cost-effective.
@@ -24,7 +26,8 @@ Mehul Bhundiya
 Deepansha Deora
 Ritika Meena
 Divyanshu Singh
-Samhitha Manepalli
+Samhitha Mannepalli
+
 A special thanks to our team's backbone, our mentor Uthamkumar M, and our faculty mentor Dr. Gajendra Singh, without whom our project would never have been completed.
 
 A special thanks to Vikky Kumar for providing his generous support in formulating the final idea and approach for making the product.
