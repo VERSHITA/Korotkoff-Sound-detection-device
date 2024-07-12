@@ -1,6 +1,7 @@
 # Korotkoff-Sound-detection-device
 
-#Introduction
+Introduction:
+
 Our project is based on the crucial body sounds known as Korotkoff Sounds. These are the sounds medical personnel listen to when taking blood pressure using a non-invasive procedure. Korotkoff sounds have a significant relationship with blood vessel health.
 
 The microphone within the sound module is housed inside the stethoscope pipe to eliminate external noise interference and ensure accurate sound capturing. The data from the module is then transmitted to the microcontroller for processing. The processed data is subsequently sent to a laptop via cable for analysis.
