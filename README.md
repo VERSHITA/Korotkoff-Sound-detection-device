@@ -20,7 +20,7 @@ High-Performance Microphones: High-performance microphones will be used to captu
 Machine Learning Model: We aim to gather an extensive dataset from patients of various ages and health conditions to train a machine learning model. This model will predict potential heart issues, enabling patients to seek help at the earliest signs.
 Team Acknowledgements
 
-I would like to express my heartiest gratitude to my teammates:
+# Team
 
 Mehul Bhundiya
 
@@ -32,6 +32,8 @@ Divyanshu Singh
 
 Samhitha Mannepalli
 
-A special thanks to our team's backbone, our mentor Uthamkumar M, and our faculty mentor Dr. Gajendra Singh, without whom our project would never have been completed.
+Vikky Kumar
 
-A special thanks to Vikky Kumar for providing his generous support in formulating the final idea and approach for making the product.
+Utham Kumar (Mentor)
+
+Dr.Gajender Singh (Faculty Mentor)
